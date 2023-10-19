@@ -1,0 +1,2 @@
+{"error":"read /home/runner/In-class-exercise-2/img/ameer-basheer-i1KfzvgcgKc-unsplash.png: input/output error","level":"error","msg":"unable to write file img/ameer-basheer-i1KfzvgcgKc-unsplash.png","time":"2023-09-29T23:41:24Z"}
+{"error":"read /home/runner/In-class-exercise-2/img/trail_-_44702 (720p).mp4: input/output error","level":"error","msg":"unable to write file img/trail_-_44702 (720p).mp4","time":"2023-09-29T23:41:24Z"}

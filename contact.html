@@ -17,6 +17,14 @@ awesome/4.7.0/css/font-awesome.min.css">
       <h1>Welcome to Kavin's Website</h1>
     </header>
     <nav>
+      <!-- For nav to change depending on device -->
+      <script>
+      function toggleNav() {
+        var nav = document.querySelector('nav');
+        nav.classList.toggle('active');
+      }
+      </script>
+      <button onclick="toggleNav()">☰ Menu</button>
       <div class="menu-icon" id="menu-icon">
         <i class="fa fa-bars"></i>
       </div>
